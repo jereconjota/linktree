@@ -1,0 +1,25 @@
+{
+    "name": "jereconjota",
+    "avatar": "https://pbs.twimg.com/profile_images/1608277246724263941/0EBppF35_400x400.jpg",
+    "links": [
+        {
+            "title": "My personal website",
+            "url": "http://jereconjota.com",
+            "image": "https://pbs.twimg.com/profile_images/1608277246724263941/0EBppF35_400x400.jpg"
+        },
+        {
+            "title": "Vercel",
+            "url": "http://vercel.com"
+        }
+    ],
+    "socials": [
+        {
+            "title": "twitter",
+            "url": "https://twitter.com/jereconjota"
+        },
+        {
+            "title": "github",
+            "url": "https://github/jereconjota"
+        }
+    ]
+}
