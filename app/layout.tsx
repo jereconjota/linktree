@@ -7,12 +7,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      {/*
-        <head /> will contain the components returned by the nearest parent
-        head.tsx. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
-      */}
       <head />
-      <body>{children}</body>
+      <body className='bg-gradient-to-b from-gray-900 via-purple-900 to-violet-600 text-white h-screen'>{children}</body>
     </html>
   )
 }

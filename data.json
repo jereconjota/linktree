@@ -1,25 +1,25 @@
 {
     "name": "jereconjota",
-    "avatar": "https://pbs.twimg.com/profile_images/1608277246724263941/0EBppF35_400x400.jpg",
+    "avatar": "https://pbs.twimg.com/profile_images/1621251708503441415/aCl57POp_400x400.jpg",
     "links": [
         {
-            "title": "My personal website",
-            "url": "http://jereconjota.com",
-            "image": "https://pbs.twimg.com/profile_images/1608277246724263941/0EBppF35_400x400.jpg"
+            "title": "My Personal website",
+            "href": "http://jereconjota.com",
+            "image": "https://jereconjota.com/_next/image?url=%2Fimages%2Fprofile.jpg&w=256&q=75"
         },
         {
             "title": "Vercel",
-            "url": "http://vercel.com"
+            "href": "http://vercel.com"
         }
     ],
     "socials": [
         {
             "title": "twitter",
-            "url": "https://twitter.com/jereconjota"
+            "href": "https://twitter.com/jereconjota"
         },
         {
             "title": "github",
-            "url": "https://github/jereconjota"
+            "href": "https://github.com/jereconjota"
         }
     ]
 }
