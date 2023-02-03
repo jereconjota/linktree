@@ -8,9 +8,18 @@
             "image": "https://jereconjota.com/_next/image?url=%2Fimages%2Fprofile.jpg&w=256&q=75"
         },
         {
-            "title": "Vercel",
+            "title": "Some notes",
+            "href": "http://notes.jereconjota.com"
+        },        
+        {
+            "title": "Made with Next.js",
+            "href": "http://nextjs.org"
+        },
+        {
+            "title": "Deploy on vercel",
             "href": "http://vercel.com"
         }
+
     ],
     "socials": [
         {
